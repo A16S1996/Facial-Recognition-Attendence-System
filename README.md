@@ -1,5 +1,5 @@
-# Face-Recognition-Attendance-Management-System
-Attendance Management System based on Face Recognition using Python  and OpenCv  
+# Facial-Recognition-Attendance-System
+Facial Recognition Attendence System using Python  and OpenCv  
 
 ### Sourcerer
 <img src="https://avatars.githubusercontent.com/u/84435079?v=4" height="50px" width="50px" alt=""/>
@@ -30,7 +30,7 @@ Attendance Management System based on Face Recognition using Python  and OpenCv
 ### Screenshots
 
 ### Basic UI
-<img src="https://github.com/Pragya9ps/Face-Recognition-Attendance-System/blob/main/Screenshot%20(31).png">
+<img src="https://github.com/Pragya9ps/Face-Recognition-Attendance-System/blob/main/Screenshot%20(120).png">
 
 ### When it Recognises me
 <img src="https://github.com/Pragya9ps/Face-Recognition-Attendance-System/blob/main/Screenshot%20(33).png">
