@@ -33,22 +33,9 @@ Facial Recognition Attendence System using Python  and OpenCv
 <img src="https://raw.githubusercontent.com/A16S1996/Facial-Recognition-Attendence-System/refs/heads/main/Screenshot%20(120).png">
 
 ### When it Recognises me
-<img src="https://github.com/Pragya9ps/Face-Recognition-Attendance-System/blob/main/Screenshot%20(33).png">
+<img src="https://raw.githubusercontent.com/A16S1996/Facial-Recognition-Attendence-System/refs/heads/main/Screenshot%20(124).png">
 
 ### While filling automatic attendance
-<img src="https://github.com/Pragya9ps/Face-Recognition-Attendance-System/blob/main/Screenshot%20(38).png">
-
-### Manually attendance filling UI
-<img src="https://github.com/Pragya9ps/Face-Recognition-Attendance-System/blob/main/Screenshot%20(35).png">
-
-
-### Video demo
-
-[Youtube](https://youtu.be/onms2KDOTtY)
-
-
-### Notes
-- It will require high processing power(I have 8 GB RAM)
-- Noisy image can reduce the accuracy, so quality of images should be good.
+<img src="https://raw.githubusercontent.com/A16S1996/Facial-Recognition-Attendence-System/refs/heads/main/Screenshot%20(122).png">
 
 
