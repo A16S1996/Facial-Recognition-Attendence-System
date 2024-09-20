@@ -30,7 +30,7 @@ Facial Recognition Attendence System using Python  and OpenCv
 ### Screenshots
 
 ### Basic UI
-<img src="https://github.com/Pragya9ps/Face-Recognition-Attendance-System/blob/main/Screenshot(120).png">
+<img src="https://raw.githubusercontent.com/A16S1996/Facial-Recognition-Attendence-System/refs/heads/main/Screenshot%20(120).png">
 
 ### When it Recognises me
 <img src="https://github.com/Pragya9ps/Face-Recognition-Attendance-System/blob/main/Screenshot%20(33).png">
